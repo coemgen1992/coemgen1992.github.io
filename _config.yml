@@ -3,10 +3,10 @@ email: kevin.feichtinger@asak.at
 # logo: /assets/img/logo.png
 description: The personal website of Kevin Feichtinger
 
-url: https://www.kevin-feichtinger.at
+# url: https://www.kevin-feichtinger.at
 
 twitter_username: k_feichtinger
 github_username: coemgen1992
 
-show_downloads: false
+# show_downloads: false
 theme: minima
