@@ -6,8 +6,8 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -15,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-#  - title: "CV"
-#    url: https://cv.kevin-feichtinger.at
+   - title: "CV"
+     url: https://cv.kevin-feichtinger.at
     
 #  - title: "Guide"
 #    url: /markdown/
