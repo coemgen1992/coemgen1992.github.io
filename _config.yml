@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Feichtinger"
-  avatar           : "/assets/images/kfeichtinger.jpg"
+  avatar           : "kfeichtinger.jpg"
   bio              : "PhD student @ LIT Cyber-Physical Systems Lab."
   location         : "Johannes Kepler University Linz"
   employer         :
