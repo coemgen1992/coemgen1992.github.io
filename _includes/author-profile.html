@@ -46,8 +46,14 @@
       {% if author.dblp %}
         <li><a href="{{ author.dblp }}"><i class="fas fa-fw fa-graduation-cap"></i> DBLP</a></li>
       {% endif %}
+      {% if author.semanticscholar %}
+        <li><a href="{{ author.semanticscholar }}"><i class="fas fa-fw fa-graduation-cap"></i> researchr</a></li>
+      {% endif %}
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+      {% endif %}
+      {% if author.researchr %}
+        <li><a href="{{ author.researchr }}"><i class="fas fa-fw fa-graduation-cap"></i> researchr</a></li>
       {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
