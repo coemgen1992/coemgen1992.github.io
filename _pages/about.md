@@ -9,43 +9,88 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Researcher at the [Dependability of Software-intensive Systems Group](https://dsis.kastel.kit.edu/index.php) at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php), Germany. I completed my Ph.D. studies in computer science major software engineering at the [LIT Cyber-Physical Systems Lab](https://www.jku.at/lit-cyber-physical-systems-lab/) at [Johannes Kepler University Linz](https://www.jku.at/en) in 2023. My current research interests include software product lines, variability modeling, model transformations, software evolution, software consistency, and software development for Cyber-Physical Systems (CPS).
+I am a Postdoctoral Researcher at the [Dependability of Software-intensive Systems Group](https://dsis.kastel.kit.edu/index.php) headed by [Prof. Dr. Ralf Reussner](https://dsis.kastel.kit.edu/staff_ralf_reussner.php) at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php), Germany. I completed my Ph.D. studies in computer science major software engineering at the [LIT Cyber-Physical Systems Lab](https://www.jku.at/lit-cyber-physical-systems-lab/) at [Johannes Kepler University Linz](https://www.jku.at/en) in 2023. See my [CV](/files/CV_Kevin_Feichtinger.pdf) for details.
 
-Current Research
+My research interests include software product lines, configurable systems, variability modeling, model transformations, software evolution, software consistency, and software development for Cyber-Physical Systems. 
+
+Currently I am affiliated with the [CRC/SFB 1608 »Convide«](https://www.sfb1608.kit.edu/) where I research on the Consistency in the View-Based Development of Cyber-Physical Systems. Within the project, I coordinate the cross-project working group on "Notions and Definitions of Consistency".
+
+Contact
 ======
-<!--
-Consistency in the View-Based Development of Cyber-Physical Systems
-------
-Collaborative Research Centre 1608
--->
+I do not have explicit office hours. Please contact me via e-mail (kevin--dot--feichtinger--at--kit--dot--edu) if you have questions or inquiries about classes and thesis projects. We will arrange an appointment.
 
-Transforming Variability Artifacts
-------
-Many different variability modeling approaches have been developed in the last 30 years. All of them have strengths and weaknesses and many have been shown to be at least useful for certain domains or use cases. However, it is difficult to understand the capabilities and differences of approaches to select the right approach for a specific use case. Thus, frequently new modeling approaches and custom artifacts for managing variability, e.g., domain-specific languages or spreadsheets, are developed. Therefore we developed TRAVART (TRAnsforming Variability ARTifacts), a transformation approach for variability artifacts (variability models as well as custom artifacts). We successfully transformed various existing variability artifacts from academia as well as industry, investigated the transformation impact on variability artifacts, and inspected the information lost during round-trip transformations. We showed that TRAVART supports and automates the transformation of different variability artifacts created using heterogeneous approaches. One can switch between variability artifacts of different types without losing already invested modeling efforts and compare the strengths and weaknesses of different variability modeling approaches. The work is summarized in the [PhD Thesis](https://epub.jku.at/obvulihs/content/titleinfo/9132023).
-
-Core publications:
-- Kevin Feichtinger and Rick Rabiser. 2020. Towards Transforming Variability Models: Usage Scenarios, Required Capabilities and Challenges. In Proceedings of the 24th ACM International Systems and Software Product Line Conference - Volume B (SPLC '20). Association for Computing Machinery, New York, NY, USA, 44–51. [https://doi.org/10.1145/3382026.3425768](https://doi.org/10.1145/3382026.3425768)
-- Kevin Feichtinger, Kristof Meixner, Rick Rabiser, and Stefan Biffl. 2020. Variability Transformation from Industrial Engineering Artifacts: An Example in the Cyber-Physical Production Systems Domain. In Proceedings of the 24th ACM International Systems and Software Product Line Conference - Volume B (SPLC '20). Association for Computing Machinery, New York, NY, USA, 65–73. [https://doi.org/10.1145/3382026.3425770](https://doi.org/10.1145/3382026.3425770)
-- Kevin Feichtinger, Johann Stöbich, Dario Romano, and Rick Rabiser. 2021. TRAVART: An Approach for Transforming Variability Models. In Proceedings of the 15th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS '21). Association for Computing Machinery, New York, NY, USA, Article 8, 1–10. [https://doi.org/10.1145/3442391.3442400](https://doi.org/10.1145/3442391.3442400)
-- Kevin Feichtinger. 2021. A flexible approach for transforming variability models. In Proceedings of the 25th ACM International Systems and Software Product Line Conference - Volume B (SPLC '21). Association for Computing Machinery, New York, NY, USA, 18–23. [https://doi.org/10.1145/3461002.3473069](https://doi.org/10.1145/3461002.3473069)
-- Kevin Feichtinger, Chico Sundermann, Thomas Thüm, and Rick Rabiser. 2022. It's your loss: classifying information loss during variability model roundtrip transformations. In Proceedings of the 26th ACM International Systems and Software Product Line Conference - Volume A (SPLC '22), Vol. A. Association for Computing Machinery, New York, NY, USA, 67–78. [https://doi.org/10.1145/3546932.3546990](https://doi.org/10.1145/3546932.3546990)
-
-Community-Driven Language for Variability Models
-------
-The [Universal Variability Language](https://universal-variability-language.github.io/) is a community effort towards a unified language for variability models. Universal Variability Language is a direct result of the efforts within the [MODEVAR](https://modevar.github.io/) initiative.
-
-Core publications:
-- Chico Sundermann, Kevin Feichtinger, Dominik Engelhardt, Rick Rabiser, and Thomas Thüm. 2021. Yet another textual variability language? a community effort towards a unified language. In Proceedings of the 25th ACM International Systems and Software Product Line Conference - Volume A (SPLC '21). Association for Computing Machinery, New York, NY, USA, 136–147. [https://doi.org/10.1145/3461001.3471145](https://doi.org/10.1145/3461001.3471145)
-- Dario Romano, Kevin Feichtinger, Danilo Beuche, Uwe Ryssel, and Rick Rabiser. 2022. Bridging the gap between academia and industry: transforming the universal variability language to pure::variants and back. In Proceedings of the 26th ACM International Systems and Software Product Line Conference - Volume B (SPLC '22), Vol. B. Association for Computing Machinery, New York, NY, USA, 123–131. [https://doi.org/10.1145/3503229.3547056](https://doi.org/10.1145/3503229.3547056)
-- Chico Sundermann, Stefan Vill, Thomas Thüm, Kevin Feichtinger, Prankur Agarwal, Rick Rabiser, José A. Galindo, and David Benavides. 2023. UVLParser: Extending UVL with Language Levels and Conversion Strategies. In Proceedings of the 27th ACM International Systems and Software Product Line Conference - Volume B (SPLC '23), Vol. B. Association for Computing Machinery, New York, NY, USA, 39–42. [https://doi.org/10.1145/3579028.3609013](https://doi.org/10.1145/3579028.3609013)
-
-<!--
 Teaching
 ======
 
-Software Product Line Engineering
-------
-Currently, 
+2025:
+- Lecture Software Product Line Engineering - 3 ECTS
+- Project Supervisor: Software Engineering - 6 ECTS
 
-How to enhance the comparability of different variability artifacts and increase the interoperability of existing variability artifact tools?
--->
+2024:
+- Lecture Software Product Line Engineering - 3 ECTS
+- Project Supervisor: Software Engineering - 6 ECTS
+- Project Supervisor: Tools for Agile Modeling - 6 ECTS
+- Seminar Supervisor: Continuous Software Engineering - 4 ECTS
+
+2023:
+- Lecture Software Product Line Engineering - 3 ECTS
+- Lecture Exercises in Algorithms - 1,5 ECTS
+
+2022:
+- Lecture Software Product Line Engineering - 3 ECTS
+- Lecture Systems Programming - 3 ECTS
+- Lecture Exercises in Algorithms - 1,5 ECTS
+- Lecture Exercises in Algorithms for AI - 1,5 ECTS
+- Project Supervisor: Software Engineering - 7,5 ECTS
+
+2021:
+- Lecture Exercises in Algorithms - 1,5 ECTS
+
+2020:
+- Lecture Exercises in Practical Computer Science - 1,5 ECTS
+- Project Supervisor: Software Engineering - 7,5 ECTS
+
+Scientific Service
+======
+
+2025:
+- Organizer [3rd Special Session on Software Engineering for Cyber-Physical Production Systems (SECPPS) @ 30th IEEE International Conference on Emerging Technologies and Factory Automation](https://etfa2025.ieee-ies.org/special_sessions/ss8/index.html)
+- Organizer [Artifact Chair, 29th ACM International Systems and Software Product Line Conference](https://2025.splc.net/organizing-committee/)
+- Organizer [Workshop Co-Chair, Software Engineering Conference of the German Informatics Society (Gesellschaft für Informatik e.V.)](https://se2025.sdq.kastel.kit.edu/en/)
+- Organizer [8th International Workshop on Languages for Modelling Variability (MODEVAR 2025) @ International Working Conference on Variability Modelling of Software-Intensive Systems](https://modevar.github.io/vamos-2025/committees/)
+- PC Member [9th International Workshop on Languages for Modelling Variability Workshop @ 29th ACM International Systems and Software Product Line Conference](https://2025.splc.net/program-committees/)
+- PC Member [Demonstrations and Tools @ 29th ACM International Systems and Software Product Line Conference](https://2025.splc.net/program-committees/)
+- PC Member [Challenge Track @ 29th ACM International Systems and Software Product Line Conference](https://2025.splc.net/program-committees/)
+- Reviewer Transactions on Software Engineering (TSE)
+- Reviewer ACM Transactions on Software Engineering and Methodology (TOSEM)
+- Reviewer Journal of Systems and Software (JSS)
+
+2024:
+- Organizer [7th International Workshop on Languages for Modelling Variability (MODEVAR 2024) @ 28th ACM International Systems and Software Product Line Conference](https://modevar.github.io/splc-2024/committees/)
+- Organizer [2nd Special Session on Software Engineering for Cyber-Physical Production Systems (SECPPS) @ 29th IEEE International Conference on Emerging Technologies and Factory Automation](https://2024.ieee-etfa.org/special-sessions/software_engineering_for_cyber_physical_production_systems/index.html)
+- PC Member [Research Track @ 28th ACM International Systems and Software Product Line Conference](https://2024.splc.net/program-committees/)
+- PC Member [Artifact Evaluation Track @ 28th ACM International Systems and Software Product Line Conference](https://2024.splc.net/program-committees/)
+- PC Member [Demonstrations and Tools Track @ 28th ACM International Systems and Software Product Line Conference](https://2024.splc.net/program-committees/)
+- PC Member [6th International Workshop on Languages for Modelling Variability (MODEVAR 2024), 18th International Working Conference on Variability Modelling of Software-Intensive Systems](https://modevar.github.io/vamos-2024/committees/)
+- PC Member [Artifact Evaluation Track @ 18th International Working Conference on Variability Modelling of Software-Intensive Systems](https://vamos2024.inf.unibe.ch/organisation/)
+- Reviewer Transactions on Software Engineering (TSE)
+- Reviewer ACM Transactions on Software Engineering and Methodology (TOSEM)
+- Reviewer Journal of Systems and Software (JSS)
+- Session Chair [28th ACM International Systems and Software Product Line Conference](https://2024.splc.net/program/7496-2/)
+
+2023: 
+- PC Member [6th International Workshop on Variability and Evolution of Software-Intensive Systems @ 27th ACM International Systems and Software Product Line Conference](https://sites.google.com/view/varivolution-2023/home)
+- PC Member [Technical Tracks Industrial Digitalization, Digital Twins in Industrial Applications @ IEEE International Conference on Industrial Informatics 2023](https://2023.ieee-indin.org/technical-tracks.php)
+- PC Member [Special Session on Software Engineering for Cyber-Physical Production Systems @ 28th IEEE International Conference on Emerging Technologies and Factory Automation](https://2023.ieee-etfa.org/)
+- PC Member [Work-In-Progress Session @ 28th IEEE International Conference on Emerging Technologies and Factory Automation](https://2023.ieee-etfa.org/)
+- Reviewer Journal of Systems and Software (JSS)
+
+2022:
+- Reviewer Journal of Systems and Software (JSS)
+- (Sub-)Reviewer - Research Track, 16th Working Conference on Variability Modelling of Software-Intensive Systems
+- (Sub-)Reviewer - Research Track, 26th ACM International Systems and Software Product Line Conference
+- (Sub-)Reviewer - Research Track, 34th International Conference on Software Engineering and Knowledge Engineering
+
+2021:
+- (Sub-)Reviewer - Research Track, 25th ACM International Systems and Software Product Line Conference
+- (Sub-)Reviewer - Research Track, 15th Working Conference on Variability Modelling of Software-Intensive Systems
