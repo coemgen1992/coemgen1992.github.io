@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 I am a Postdoctoral Researcher at the [Dependability of Software-intensive Systems Group](https://dsis.kastel.kit.edu/index.php) headed by [Prof. Dr. Ralf Reussner](https://dsis.kastel.kit.edu/staff_ralf_reussner.php) at [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php), Germany. I completed my Ph.D. studies in computer science major software engineering at the [LIT Cyber-Physical Systems Lab](https://www.jku.at/lit-cyber-physical-systems-lab/) at [Johannes Kepler University Linz](https://www.jku.at/en) in 2023. See my [CV](/files/CV_Kevin_Feichtinger.pdf) for details.
 
 My research interests include software product lines, configurable systems, variability modeling, model transformations, software evolution, software consistency, and software development for Cyber-Physical Systems. 
@@ -19,78 +18,32 @@ Contact
 ======
 I do not have explicit office hours. Please contact me via e-mail (kevin--dot--feichtinger--at--kit--dot--edu) if you have questions or inquiries about classes and thesis projects. We will arrange an appointment.
 
-Teaching
+Projects
 ======
+Integrated Framework for Multidisciplinary Engineering for CPPS
+- Oct 2026 to Jun 2027
+- Partners: University Stuttgart
+- Staff: 2+ Student assistents
+- The INTERFACE4CPPS aims at developing a full integration framework which, while allowing engineering disciplines to keep their domain-specific tools, artifacts, and work processes, provides means to integrate knowledge across the domains.
+- [BUP70 - INTERFACE4CPPS](https://www.icm-bw.de/en/projects/project-overview/details/bup70-interface4cpps)
 
-2025:
-- Lecture Software Product Line Engineering - 3 ECTS
-- Project Supervisor: Software Engineering - 6 ECTS
-
-2024:
-- Lecture Software Product Line Engineering - 3 ECTS
-- Project Supervisor: Software Engineering - 6 ECTS
-- Project Supervisor: Tools for Agile Modeling - 6 ECTS
-- Seminar Supervisor: Continuous Software Engineering - 4 ECTS
-
-2023:
-- Lecture Software Product Line Engineering - 3 ECTS
-- Lecture Exercises in Algorithms - 1,5 ECTS
-
-2022:
-- Lecture Software Product Line Engineering - 3 ECTS
-- Lecture Systems Programming - 3 ECTS
-- Lecture Exercises in Algorithms - 1,5 ECTS
-- Lecture Exercises in Algorithms for AI - 1,5 ECTS
-- Project Supervisor: Software Engineering - 7,5 ECTS
-
-2021:
-- Lecture Exercises in Algorithms - 1,5 ECTS
-
-2020:
-- Lecture Exercises in Practical Computer Science - 1,5 ECTS
-- Project Supervisor: Software Engineering - 7,5 ECTS
-
-Scientific Service
+Awards
 ======
+- [Journal of Systems and Software Best Paper Award in the Regular Track 2025](https://en.wikipedia.org/wiki/Journal_of_Systems_and_Software) for the paper [UVL: Feature Modelling with the Universal Variability Language](https://doi.org/10.1016/j.jss.2024.112326)
+- JKU Young Researcher Award 2024 from Johannes Kepler University Linz, Austria
 
-2025:
-- Organizer [3rd Special Session on Software Engineering for Cyber-Physical Production Systems (SECPPS) @ 30th IEEE International Conference on Emerging Technologies and Factory Automation](https://etfa2025.ieee-ies.org/special_sessions/ss8/index.html)
-- Organizer [Artifact Chair, 29th ACM International Systems and Software Product Line Conference](https://2025.splc.net/organizing-committee/)
-- Organizer [Workshop Co-Chair, Software Engineering Conference of the German Informatics Society (Gesellschaft für Informatik e.V.)](https://se2025.sdq.kastel.kit.edu/en/)
-- Organizer [8th International Workshop on Languages for Modelling Variability (MODEVAR 2025) @ International Working Conference on Variability Modelling of Software-Intensive Systems](https://modevar.github.io/vamos-2025/committees/)
-- PC Member [9th International Workshop on Languages for Modelling Variability Workshop @ 29th ACM International Systems and Software Product Line Conference](https://2025.splc.net/program-committees/)
-- PC Member [Demonstrations and Tools @ 29th ACM International Systems and Software Product Line Conference](https://2025.splc.net/program-committees/)
-- PC Member [Challenge Track @ 29th ACM International Systems and Software Product Line Conference](https://2025.splc.net/program-committees/)
-- Reviewer Transactions on Software Engineering (TSE)
-- Reviewer ACM Transactions on Software Engineering and Methodology (TOSEM)
-- Reviewer Journal of Systems and Software (JSS)
+Steering Committee Memberships
+======
+- [MODEVAR Workshop Series](https://modevar.github.io/)
 
-2024:
-- Organizer [7th International Workshop on Languages for Modelling Variability (MODEVAR 2024) @ 28th ACM International Systems and Software Product Line Conference](https://modevar.github.io/splc-2024/committees/)
-- Organizer [2nd Special Session on Software Engineering for Cyber-Physical Production Systems (SECPPS) @ 29th IEEE International Conference on Emerging Technologies and Factory Automation](https://2024.ieee-etfa.org/special-sessions/software_engineering_for_cyber_physical_production_systems/index.html)
-- PC Member [Research Track @ 28th ACM International Systems and Software Product Line Conference](https://2024.splc.net/program-committees/)
-- PC Member [Artifact Evaluation Track @ 28th ACM International Systems and Software Product Line Conference](https://2024.splc.net/program-committees/)
-- PC Member [Demonstrations and Tools Track @ 28th ACM International Systems and Software Product Line Conference](https://2024.splc.net/program-committees/)
-- PC Member [6th International Workshop on Languages for Modelling Variability (MODEVAR 2024), 18th International Working Conference on Variability Modelling of Software-Intensive Systems](https://modevar.github.io/vamos-2024/committees/)
-- PC Member [Artifact Evaluation Track @ 18th International Working Conference on Variability Modelling of Software-Intensive Systems](https://vamos2024.inf.unibe.ch/organisation/)
-- Reviewer Transactions on Software Engineering (TSE)
-- Reviewer ACM Transactions on Software Engineering and Methodology (TOSEM)
-- Reviewer Journal of Systems and Software (JSS)
-- Session Chair [28th ACM International Systems and Software Product Line Conference](https://2024.splc.net/program/7496-2/)
+Memberships
+======
+- Professional Member of [ACM](https://www.acm.org/)
+- Professional Member of [IEEE](https://www.ieee.org/)
+- Vollmitglied der [Gesellschaft für Informatik e.V.](https://gi.de/)
 
-2023: 
-- PC Member [6th International Workshop on Variability and Evolution of Software-Intensive Systems @ 27th ACM International Systems and Software Product Line Conference](https://sites.google.com/view/varivolution-2023/home)
-- PC Member [Technical Tracks Industrial Digitalization, Digital Twins in Industrial Applications @ IEEE International Conference on Industrial Informatics 2023](https://2023.ieee-indin.org/technical-tracks.php)
-- PC Member [Special Session on Software Engineering for Cyber-Physical Production Systems @ 28th IEEE International Conference on Emerging Technologies and Factory Automation](https://2023.ieee-etfa.org/)
-- PC Member [Work-In-Progress Session @ 28th IEEE International Conference on Emerging Technologies and Factory Automation](https://2023.ieee-etfa.org/)
-- Reviewer Journal of Systems and Software (JSS)
-
-2022:
-- Reviewer Journal of Systems and Software (JSS)
-- (Sub-)Reviewer - Research Track, 16th Working Conference on Variability Modelling of Software-Intensive Systems
-- (Sub-)Reviewer - Research Track, 26th ACM International Systems and Software Product Line Conference
-- (Sub-)Reviewer - Research Track, 34th International Conference on Software Engineering and Knowledge Engineering
-
-2021:
-- (Sub-)Reviewer - Research Track, 25th ACM International Systems and Software Product Line Conference
-- (Sub-)Reviewer - Research Track, 15th Working Conference on Variability Modelling of Software-Intensive Systems
+Personal Interests and Hobbies
+======
+- Pool Billiards (Board member of [City-Club Karlsruhe e.V.](https://www.cityclub-karlsruhe.de/verein/vorstand); Member [PBC Andorf](https://pbcandorf.com/))
+- Movies and Series
+- Traveling
