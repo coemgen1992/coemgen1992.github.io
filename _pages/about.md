@@ -22,7 +22,7 @@ Projects
 ======
 Integrated Framework for Multidisciplinary Engineering for CPPS
 - Oct 2026 to Jun 2027
-- Partners: University Stuttgart
+- Partners: University of Stuttgart
 - Staff: 2+ Student assistents
 - The INTERFACE4CPPS aims at developing a full integration framework which, while allowing engineering disciplines to keep their domain-specific tools, artifacts, and work processes, provides means to integrate knowledge across the domains.
 - [BUP70 - INTERFACE4CPPS](https://www.icm-bw.de/en/projects/project-overview/details/bup70-interface4cpps)
