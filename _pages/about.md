@@ -40,7 +40,7 @@ Memberships
 ======
 - Professional Member of [ACM](https://www.acm.org/)
 - Professional Member of [IEEE](https://www.ieee.org/)
-- Vollmitglied der [Gesellschaft für Informatik e.V.](https://gi.de/)
+- Member of [Gesellschaft für Informatik e.V.](https://gi.de/)
 
 Personal Interests and Hobbies
 ======
